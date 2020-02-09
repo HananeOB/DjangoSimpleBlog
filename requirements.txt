@@ -1,3 +1,4 @@
 Django
 django-taggit
 django-taggit-templatetags2
+Pillow
